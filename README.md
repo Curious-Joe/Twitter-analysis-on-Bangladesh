@@ -22,3 +22,5 @@ Overall finding and discussion
 ================
 
 From our random walk on the tweets related to Bangladesh, we have seen ‘cricket’ and ‘Rohingya’ were the two areas that people cared most. Overall, people exuded a positive sentiment along with emotions of trust and anticipation. But in case of Rohingya crisis, we showed a mixed sentiment. About Rohingya issue both the positive and negative sentiments were high. Moreover, the emotions also seemed to be mixed. People felt sorry for the Rohingya people but they also expressed fear. So, what could that mean? Were people sympathetic to the plight of Rohingya but also had some share of fear related to the issue? This study doesn’t allow us to conclude on any such conclusion. But it gives us an idea of what we may achieve by having such a walk. Maybe we need to go for a walk with Bangladesh on the online social media sites more often to get a clearer image on what people talk about Bangladesh and what may needs to be improved to leave a better digital footprint for the country.
+
+## Please look into the 'Final draft_git.pdf' file for detail analysis with R codes.
